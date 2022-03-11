@@ -16,6 +16,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=geniomdev&theme=dark)](https://leetcode.com/geniomdev/)
 
 <h3>CodeWars Stats:</h3>
+
 [![codewars](https://www.codewars.com/users/geniomdev/badges/large)](https://www.codewars.com/users/geniomdev)   
 
 <h3>Now Playing:</h3>
