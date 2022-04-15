@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2> 
 
-<p>Welcome to my page! I'm Evgenii, Backend developer from Russia.</p>
+<p>Welcome to my page! I'm Eugene, Backend developer.</p>
 
 <h3>Things I code with:</h3>
  
