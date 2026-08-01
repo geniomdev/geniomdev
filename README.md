@@ -1,25 +1,16 @@
-<h2 align="center">Hi there 👋</h2> 
-
-<p>Welcome to my page! I'm Eugene, Backend developer.</p>
-
-<h3>Things I code with:</h3>
- 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Chess](https://img.shields.io/badge/Chess-%23779556.svg?style=for-the-badge)
 
-<h3>LeetCode Stats:</h3>
+<p>Backend engineer working with Rust and Go: distributed systems, high-load services, AI/LLM tooling and open source</p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=geniomdev&theme=dark)](https://leetcode.com/geniomdev/)
+<p>Open to Rust backend and system roles</p>
 
-<h3>CodeWars Stats:</h3>
-
-[![codewars](https://www.codewars.com/users/geniomdev/badges/large)](https://www.codewars.com/users/geniomdev)   
-
-<h3>Now Playing:</h3>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<p>Contact: <a href="mailto:geniomdev@gmail.com">geniomdev@gmail.com</a></p>
